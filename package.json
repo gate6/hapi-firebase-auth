@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Hapi.js auth strategy using Firebase access tokens",
   "main": "lib/index.js",
-  "repository": "https://github.com/gabrielreiscom/hapi-firebase-auth",
+  "repository": "https://github.com/gate6/hapi-firebase-auth",
   "author": "Gate6 <developer@gate6.com>",
   "license": "MIT",
   "devDependencies": {
