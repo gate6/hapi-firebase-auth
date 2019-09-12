@@ -1,5 +1,5 @@
 {
-  "name": "hapi-firebase-auth",
+  "name": "@gate6/hapi-firebase-auth",
   "version": "0.2.0",
   "description": "Hapi.js auth strategy using Firebase access tokens",
   "main": "lib/index.js",
