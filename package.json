@@ -1,0 +1,19 @@
+{
+  "name": "hapi-firebase-auth",
+  "version": "0.2.0",
+  "description": "Hapi.js auth strategy using Firebase access tokens",
+  "main": "lib/index.js",
+  "repository": "https://github.com/gabrielreiscom/hapi-firebase-auth",
+  "author": "Gabriel Reis <jgabreis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hapi": "^17.2.0"
+  },
+  "dependencies": {
+    "boom": "^7.1.1",
+    "firebase-admin": "^5.10.0"
+  },
+  "peerDependencies": {
+    "hapi": ">= 17"
+  }
+}
