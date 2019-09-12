@@ -1,11 +1,8 @@
 {
-  "name": "@gate6/hapi-firebase-auth",
-  "version": "0.2.0",
+  "name": "@gatesix/hapi-firebase-auth",
+  "version": "1.0.0",
   "description": "Hapi.js auth strategy using Firebase access tokens",
-  "main": "lib/index.js",
-  "repository": "https://github.com/gate6/hapi-firebase-auth",
-  "author": "Gate6 <developer@gate6.com>",
-  "license": "MIT",
+  "main": "index.js",
   "devDependencies": {
     "hapi": "^17.2.0"
   },
@@ -15,5 +12,26 @@
   },
   "peerDependencies": {
     "hapi": ">= 17"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gate6/hapi-firebase-auth.git"
+  },
+  "keywords": [
+    "hapi",
+    "firebase",
+    "auth"
+  ],
+  "author": "Gate6 <developer@gate6.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gate6/hapi-firebase-auth/issues"
+  },
+  "homepage": "https://github.com/gate6/hapi-firebase-auth#readme"
 }
