@@ -1,6 +1,6 @@
 {
   "name": "@gatesix/hapi-firebase-auth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hapi.js auth strategy using Firebase access tokens",
   "main": "lib/index.js",
   "devDependencies": {
